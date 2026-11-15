@@ -35,14 +35,6 @@ Built with the MERN stack and WebRTC, the application provides peer-to-peer vide
 
 ![ConnectNow Meeting Room](./screenshots/meeting.png)
 
-### 3. Meeting with Multiple Participants
-
-![ConnectNow Multiple Participants](./screenshots/multiple-participants.png)
-
-### 4. Real-Time Chat
-
-![ConnectNow Chat](./screenshots/chat.png)
-
 ---
 
 ## ✨ Features
@@ -90,7 +82,7 @@ Built with the MERN stack and WebRTC, the application provides peer-to-peer vide
 ## 📂 Project Structure
 
 ```text
-mern-video-calling-app/
+video-call-app/
 │
 ├── client/
 │   ├── public/
