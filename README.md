@@ -144,13 +144,13 @@ Make sure you have installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ConnectNow.git
+git clone https://github.com/ajinkya029/video-call-app.git
 ```
 
 ### 2. Navigate to the Project
 
 ```bash
-cd ConnectNow
+cd video-call-app
 ```
 
 ### 3. Install Dependencies
